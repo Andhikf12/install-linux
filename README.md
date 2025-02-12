@@ -1,6 +1,17 @@
-Nama	:Andhika Fajjriansyah<br>
-NIM	:09030282327025<br>
-Kelas	:TK4B<br>
+<table>
+        <tr>
+            <th>Nama</th>
+            <td>: Andhika Fajjriansyah</td>
+        </tr>
+        <tr>
+            <th>Kelas</th>
+            <td>: Tk 4 B</td>
+        </tr>
+        <tr>
+            <th>Nim</th>
+            <td>: 09030282327025</td>
+        </tr>
+    </table>
 
 **Cara menginstall Linux Ubuntu**<br>
 Langkah Langkah:<br>
